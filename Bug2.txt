@@ -1,0 +1,7 @@
+id - #2
+Summary - Some items are not translated into Ukrainian
+Steps to reproduse - Open "Пошук" -> "Мої пристої"
+AR - The following items have not been translated:Auth Token, Last reported at, Activeted at, Firmware version, Tempalte Id, Device Id
+ER - All items transleted into Ukranian
+priority - medium  
+severity - minor
