@@ -1,6 +1,8 @@
 id - #1
-Summary - 
-AR - 
-ER - 
-priority -
-severity - 
+Summary - Can't add more than 2 locations
+AR - Location 3 not created
+ER - Location 3 created
+priority - high
+severity - Major
+
+
