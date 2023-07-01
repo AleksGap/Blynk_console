@@ -1,9 +1,0 @@
-id - #1
-Summary - Can't add more than 2 locations
-Steps to reproduse - create 2 random location in settings/locations -> create and add 3 location
-AR - Location 3 not created
-ER - Location 3 created
-priority - high
-severity - Major
-
-
